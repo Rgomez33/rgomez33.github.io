@@ -1730,6 +1730,22 @@ input, select, textarea {
 
 		}
 
+
+/* Icons 3 */
+
+.icon3 {
+    width: 20px; /* Adjust the width as needed */
+    height: 20px; /* Adjust the height as needed */
+}
+
+/* Icons 2 */
+
+.icon2 {
+    width: 30px; /* Adjust the width as needed */
+    height: 30px; /* Adjust the height as needed */
+}
+
+
 /* Icons */
 
 	.icon {
